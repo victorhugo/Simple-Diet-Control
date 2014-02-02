@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nombre</key>
+		<string>Lunes</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>1/2 tza. de Leche 1/2 tza. de all bran1 tza de papaya1 cdita. de avena1 cdita. de amaranto natural</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>1/2 lata de atúnVerdura al gusto 2 cdita. de aguacate5 pzas. de galletas saladas</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>1 tza. sopa de calabaza1/2 tza. de arrozFilete de pescado chico- con jitomate, cebolla, epazote, al gusto.1 tza. de champiñones2 zanahorias en tiraslechuga1/2 pepino3 aceitunas2 reb. de pan 1 pza. de manzanaAgua de tamarindo</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>5 piezas de uva</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>-1/2 tza. de leche light-1/2 tza. de all bran-1 tza. de papaya -1 cdita. de linaza</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Martes</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>1 tza. de melón1 porción de yogurth natural2 cditas. de linazaTé5 pzas. de galletas marías</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>Sandwich de jamón-2 reb. pan integral-1 reb. de jamón-1 cdita. de aguacate-lechuga y jitomate al gusto- 5 pzas. de uva</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>-1 tza. sopa de champiñones-80 gr. de bistec a la mexicana-1 tza. de espinacas-1 pza. de manzana-30 gr. queso panela-1/2 tza. de lechuga-1 cdita. de ajonjoli-2 tortillas-1 pza. de mango-Agua de limón</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>-1 pza. de nuez</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>-1/2 tza. de leche light-1 reb. de pan integral-1 tza. de melón-1 cdita. de amaranto</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Miércoles</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>-1/2 tza. de leche light-1 reb. de pan multigrano-1/2 tza. de papaya-1 cdita. de avena</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>Jitomate al gusto60 grs. queso panelaLechuga al gusto5 pzas. galletas saladas</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>-1/2 tza. spagueti3 pzas. chile poblano en rajas60 gr. queso panela-1/2 tza. de elote-Jitomate, cebolla al gusto.-Chayote al vapor-2 tortillas-1 tza. melón-Agua de Jamaica</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>-Barra de fibra</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>-1 tza. de papaya-1 porción yogurth natural-1 cdita de avena-5 galletas marias</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Jueves</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>-1/2 tza. de leche light-5 galletas marias-10 pzas. uvas</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>-1 porcion de yogurth natural-1 pza. de mango-1 cdita. de avena</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>-1/2 tza. crema de zanahoria-80 gr. pechuga de pollo-2 pzas. de nopal asado-Lechuga al gusto-1 pza. de jitomate-1 pza de chayote-2 tortillas-1 pza. naranja-Agua de Guayaba</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>-1 tza. chayote al vapor</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>-1/2 tza de leche light-1 reb. pan integral-1 tza. de melón-1 cdita de avena</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Viernes</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>-1 tza. de melón-1 porción de yogurth natural-1 cdita. de avena-5 galletas marias</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>-2 reb. pan integral-1 reb. de jamón-1 cdita. de aguacate-lechuga y jitomate al gusto</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>-1 tza. de chayote-1/2 tza. sopa de arroz-1 lata de atún-3 pzas. de nopales-Tomate y cebolla al gusto-30 gr. de queso panela-1/2 tza. de pepino-2 pzas. zanahoria-1 tza. de lechuga-1 cdita. de ajonjoli-1 pza. de pimiento-2 tortillas-2 pzas. guayaba- Agua de limón</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>-5 Almendras</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>-1tza.de melón-1 cdita. de amaranto-1/2 tza. de leche fria-1 reb. pan tostado</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Sábado</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>-1/2 tza. de leche-1 tza. de manzana-5 cditas. de avena-1 reb. pan multigrano</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>-1/2 tza. de pollo Lechuga, jitomate, 1/4 tza. de granos de elote.1 cdita. de vinagreta</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>-1 tza. sopa de nopal-2 pzas. chile poblano-60 gr. queso panela- Jitomate cebolla al gusto1 pepino picado2 zanahorias1 jitomate1 rama de hierbabuena3 tortillas1 tza. de papayaagua natural</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>- 1 tza de gelatina </string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>1/2 tza. leche light1/2 tza. all bran1 pza. de manzana2 cdita. linaza</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Domingo</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>1 tza de papaya1/2 tza. leche light5 palitos de pan</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>- 2 claras de huevo c/ejote al gusto1 tortilla1 pza. de manzana</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>LIBRE</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>-1 pza de nuez</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>-1/2 tza. leche tibia1 reb. Pan tostado2 pzas. de guayaba</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

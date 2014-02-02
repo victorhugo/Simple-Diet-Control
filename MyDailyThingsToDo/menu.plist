@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>nombre</key>
+		<string>Menu 1</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>Ensalada de atún
+	Atun marina azul 2 paquetes
+	Verdura libre
+Salmas 1 paquete</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>Platano 1 pieza</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>Ensalada
+Sopa caldosa 1 taza
+Plato fuerte de libre preparación del tamaño de la mano sin guarnición
+(Pollo o res o pescado o cerdo cocinado al gusto)
+No empanizados ni capeados</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>Barra de cereal All Bran 1 paquete
+Pepino con Sal y Limón</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>Rollitos de Jamón con Aguacate
+	Jamón de pavo 4 ó 5 rebanadas
+	Aguacate 1/2 pieza</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Menu 2</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>Yogurth con fruta
+	Papaya 1 taza
+	Manzana 1 pieza
+	Yogurth natural o light 1 taza
+Almendras 5 piezas</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>Gelatina de agua 1pieza</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>Sopa caldosa 1 taza
+Plato fuerte de libre preparación del tamaño de la mano sin guarnición
+(Pollo o res o pescado o cerdo cocinado al gusto)
+No empanizados ni capeados</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>Pepino con jicama</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>Sandwich de queso panela
+	Pan integral 2 piezas
+	Queso panela 3 rebanadas
+	Verduras: espinacas, champiñones, germen</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>nombre</key>
+		<string>Menu 3</string>
+		<key>tiempos</key>
+		<array>
+			<dict>
+				<key>titulo</key>
+				<string>Desayuno</string>
+				<key>contenido</key>
+				<string>Huevo a la mexicana
+	Huevo 2 piezas
+	Verdura: jitomate, cebolla
+	Aceite 2 cucharaditas
+Salmas 1 paquete</string>
+				<key>hora</key>
+				<string>9:30 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media mañana</string>
+				<key>contenido</key>
+				<string>Pero o Plátano 1 pieza</string>
+				<key>hora</key>
+				<string>12:00 AM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Comida</string>
+				<key>contenido</key>
+				<string>Plato fuerte de libre preparación del tamaño de la mano sin guarnición
+(Pollo o res o pescado o cerdo cocinado al gusto)
+No empanizados ni capeados
+Tortillas de maiz 2 piezas
+	o
+Subway 1/2 pieza jamón de pavo  de pechuga de pollo asado
+	o
+Sushi 9 piezas</string>
+				<key>hora</key>
+				<string>2:00 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Media Tarde</string>
+				<key>contenido</key>
+				<string>Yohurth Natural o Light 1 pieza
+Manzana 1 pieza</string>
+				<key>hora</key>
+				<string>5:30 PM</string>
+			</dict>
+			<dict>
+				<key>titulo</key>
+				<string>Cena</string>
+				<key>contenido</key>
+				<string>Quesadillas de queso panela o queso oaxaca
+	Tortillas de maiz 2 piezas
+	Queso oaxaca o panela 4 rebanadas</string>
+				<key>hora</key>
+				<string>8:00 PM</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
